@@ -1,0 +1,15 @@
+.country{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.everyCountry{
+    border: 1px solid slateblue;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.country-visited{
+    background-color: rgb(207, 21, 21);
+    color: white;
+}
